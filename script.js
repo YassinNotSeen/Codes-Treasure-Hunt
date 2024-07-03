@@ -2,7 +2,6 @@
 const codes = [
     { code: '6529', message: 'Average numbers of birthdate "1951." Add all digits then divide them by the number of digits. | ꩜' },
     { code: '3211', message: "Yassin's watch. Check all dimensions.| ꩜" },
-    { code: '9712', message: 'Success! You cracked Code 3!' },
     // Add more codes and messages as needed
 ];
 
