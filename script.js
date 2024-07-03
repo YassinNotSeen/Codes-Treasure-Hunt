@@ -1,7 +1,7 @@
 // Array to store valid codes and corresponding messages or images
 const codes = [
-    { code: '6529', message: 'Average numbers of birthdate "1951." Add all digits then divide them by the number of digits. | ꩜' },
-    { code: '3211', message: "Yassin's watch. Check all dimensions.| ꩜" },
+    { code: '65Z9', message: 'Average numbers of birthdate "1951." Add all digits then divide them by the number of digits. | ꩜' },
+    { code: '3211', message: "...غرفة فئران عند بيت" },
     // Add more codes and messages as needed
 ];
 
